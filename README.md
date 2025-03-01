@@ -47,10 +47,13 @@ The Auction Platform is a web-based application that allows users to participate
             ; Frontend : 'http://localhost:5000' in your browser .
  
 ## Improvements Implemented
-- **Vite Configuration**: Adjusted proxy settings to resolve `ECONNREFUSED ::1:5000` error.
-- **Mock API Integration**: Added fallback mock data to handle scenarios when the backend is unavailable.
-- **Error Handling**: Implemented try-catch blocks to prevent application crashes due to failed API calls.
-- **UI Enhancements**: Improved styling and responsiveness for a better user experience.
+- Implemented CRUD Operations: Successfully tested GET, POST, PUT requests on Postman for auctions, users, and bids.
+- User Authentication & Security: Integrated bcrypt for password hashing and used JWT for authentication.
+- Data Validation & Error Handling: Added input validation using Joi and improved error responses for better debugging.
+- Optimized Database Queries: Used MongoDB indexing and efficient queries to enhance performance.
+- Auction Logic Enhancements: Ensured correct bid placements, preventing lower bids from being accepted.
+- Code Refactoring & Modularization: Structured routes, controllers, and models for better maintainability.
+- CORS & Middleware Improvements: Configured CORS policy and added middleware for request logging.
 
 ---------------------------------------------------
 
