@@ -3,7 +3,7 @@ Edunet Foundation in collaboration with EY GDS & AICTE
 
 AICTE Internship - Project 2 - Online Auction Platform
 
-Week 1 Project:
+Week 2 Project:
 
 # Auction Platform
 
@@ -53,16 +53,22 @@ The Auction Platform is a web-based application that allows users to participate
 
 ---------------------------------------------------
 
-Frontend Screenshots :-
+Backend Screenshots ( Postman , VS Code , MongoDB Compass ) :-
 
-![Screenshot 2025-02-22 122802](https://github.com/user-attachments/assets/ba4dbd9a-7b29-4762-b803-6b898f86e5bf)
-![Screenshot 2025-02-22 122808](https://github.com/user-attachments/assets/f1687129-f3d3-4409-9493-26a8282f8855)
-![Screenshot 2025-02-22 122819](https://github.com/user-attachments/assets/f4c95fbd-6c83-40b9-a2c7-a44d69dab6e5)
+![1f9cee78-41ce-4d25-aa80-c3711f5edb1e](https://github.com/user-attachments/assets/741fc0eb-f1ac-4477-ae59-6a688deff8f3)
+![f57faf21-f5a3-42a1-bf87-0fa93c0d562e](https://github.com/user-attachments/assets/8c4df1e6-79e5-4808-952e-1c55377db6db)
+![a2c36aef-2c2e-4699-8c43-b02856f8d2cd](https://github.com/user-attachments/assets/a20dd719-f81e-41a0-b6c1-c3471c86ce96)
+![afa73547-bdbb-4d09-b43c-3d96a688f1be](https://github.com/user-attachments/assets/a23a73e3-ab93-45a3-b85a-469dfa5d09a5)
+![e6f81f92-4f93-4858-b327-b79a2a8a743e](https://github.com/user-attachments/assets/518e8df9-693e-4e8a-af71-2e371da8b74a)
+![fbde3ce6-33df-46a6-8e88-007d6e369891](https://github.com/user-attachments/assets/117eef8e-208d-4103-8128-c72b54e72d90)
+![610207a2-1904-4045-8e4d-8a455302bbd2](https://github.com/user-attachments/assets/2998f2fc-262b-42a5-86d8-05499deb33f4)
+![3ef6455b-90cc-462b-99de-69f9b0617eda](https://github.com/user-attachments/assets/2e20076f-f789-4b58-b04f-d5c137ffe968)
+
 
 -----------------------------------------------------------------------------------------------------
 
 
-Submission Date: 22-02-2025
+Submission Date: 01-03-2025
 
 Name : Mr.Aman Subhash Jambhulkar
 
