@@ -43,8 +43,9 @@ The Auction Platform is a web-based application that allows users to participate
    npm run dev
    ```
 4. **Access the Application**
-   - Open `http://localhost:5173` in your browser.
-
+   - Open :- Backend : `http://localhost:5000` 
+            ; Frontend : 'http://localhost:5000' in your browser .
+ 
 ## Improvements Implemented
 - **Vite Configuration**: Adjusted proxy settings to resolve `ECONNREFUSED ::1:5000` error.
 - **Mock API Integration**: Added fallback mock data to handle scenarios when the backend is unavailable.
